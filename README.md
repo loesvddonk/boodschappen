@@ -1,5 +1,6 @@
 boodschappen
 ============
 
+melk
 boter
 kaas
